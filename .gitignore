@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+# working scratch from the art pipeline
+raw/
+art2/
+art3/
+*.tmp
